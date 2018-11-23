@@ -1,4 +1,4 @@
-# Saronite Webwallet - a lightweight web wallet for Saronite based on OpenMonero 
+# Saronite Webwallet - a lightweight web wallet for Saronite based on OpenMonero (To be updated soon)
 
 In this example [restbed](https://github.com/Corvusoft/restbed/) is used to
 demonstrate how to provide Saronite related JSON REST service. For this purpose,
@@ -30,11 +30,6 @@ to MyMonero. They include:
  - free, time based imports of recent transactions added.
  - new transaction details window.
  - sending SARONITE to a subaddress (not receiving nor generating subaddresses for now).
-
-
-## Screenshot
-
-![Saronite Webwallet](screenshot/screen1.png)
 
 
 ## Host it yourself
